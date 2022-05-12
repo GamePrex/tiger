@@ -1,11 +1,11 @@
 [package]
-name = "app"
+name = "tiger"
 version = "0.1.0"
-description = "A Tauri App"
-authors = ["you"]
+description = "GamePrex Tiger"
+authors = ["Oskar Nizioł"]
 license = ""
 repository = ""
-default-run = "app"
+default-run = "tiger"
 edition = "2021"
 rust-version = "1.57"
 
