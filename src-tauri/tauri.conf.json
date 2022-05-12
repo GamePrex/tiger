@@ -7,8 +7,8 @@
     "distDir": "../build"
   },
   "package": {
-    "productName": ".",
-    "version": "0.1.0"
+    "productName": "Tiger",
+    "version": "dev"
   },
   "tauri": {
     "allowlist": {
@@ -55,7 +55,7 @@
     },
     "windows": [
       {
-        "fullscreen": false,
+        "fullscreen": true,
         "height": 600,
         "resizable": true,
         "title": "Gameprex Tiger",
